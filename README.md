@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/mudathir-ekundayo-3a46891aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loïc emo siani" height="30" width="40" /></a>
-<a href="https://fb.com/siani loic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siani loic" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mudathir.ekundayo.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siani loic" height="30" width="40" /></a>
 
 </p>
 
