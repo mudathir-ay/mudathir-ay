@@ -7,11 +7,9 @@
 
 - 👯 I’m looking to collaborate on **machine learning, data science or business analytics projects**
 
-- 👨‍💻 All of my projects are available at [https://www.emoloic.site](https://www.emoloic.site)
+- 📫 How to reach me **mudathirekundayo@gmail.com**
 
-- 📫 How to reach me **emoloic56@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lo%C3%AFc-emo-siani-6757b6189/](https://www.linkedin.com/in/lo%C3%AFc-emo-siani-6757b6189/)
+- 📄 Know about my experiences [http://www.linkedin.com/in/mudathir-ekundayo-3a46891aa/](http://www.linkedin.com/in/mudathir-ekundayo-3a46891aa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
