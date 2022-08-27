@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm EMO SIANI LOIC</h1>
+<h1 align="center">Hi 👋, I'm Mudathir Ayomide Ekundayo</h1>
 <h3 align="center">A passionate Data Scientist, Machine Learning, Artificial Intelligence, Business Analytics and Software Developer.</h3>
 
 - 🔭 I’m currently working on **Machine Learning for production**
